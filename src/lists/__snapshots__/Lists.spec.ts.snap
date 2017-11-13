@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`excludes Donald Trump and Rob Ford 1`] = `
+Array [
+  "Justin Trudeau",
+  "Abraham Lincoln",
+  "Winston Churchill",
+  "Steven Harper",
+  "Boris Johnson",
+]
+`;

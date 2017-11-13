@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a container 1`] = `
+<div
+  style="visibility: visible;"
+>
+  text inside div
+</div>
+`;
+
+exports[`visibility is hidden 1`] = `
+<div
+  style="visibility: hidden;"
+>
+  text inside div
+</div>
+`;
