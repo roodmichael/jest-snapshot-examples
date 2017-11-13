@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`shows hello message when logged in. 1`] = `
+<h1>
+  Oh, Hai.
+</h1>
+`;
+
+exports[`shows stranger danger message when not logged in. 1`] = `
+<h1>
+  Stranger danger.
+</h1>
+`;

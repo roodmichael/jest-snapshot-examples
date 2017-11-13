@@ -2,6 +2,7 @@ import * as React from 'react';
 import './App.css';
 
 const logo = require('./logo.svg');
+const image = require('./echo_show_1.jpeg');
 
 class App extends React.Component {
   render() {
@@ -14,6 +15,9 @@ class App extends React.Component {
         <p className="App-intro">
           To get started, edit <code>src/App.tsx</code> and save to reload.
         </p>
+        <div>
+          <img src={image} />
+        </div>
       </div>
     );
   }
